@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+	
+  background-color: #FFFDF1;
+  font-family: Helvetica;
+}
+
+.mynavbar{
+	
+	
+	
+}
+
+ul.nav {
+
+    background-color: #DD7F5A;
+}
+
+
+ul.nav li a, ul.nav li a:visited {
+	
+    color: #fff !important;
+
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+    color: #ffb631!important;
+
+
+}
+
+ul.nav li.active a {
+	
+    color: #FFFDF1 !important;
+
+
+}
